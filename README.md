@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudonima
+- 👋 Hi, I’m @sudonima (Nima Ansari Laleh)
 - 👀 I’m interested in programming
 - 🌱 I’m always learning 
 - 📫 nima.ansary@gmail.com
